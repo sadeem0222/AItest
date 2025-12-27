@@ -9,7 +9,7 @@ public class VisualTest {
 
         Eyes eyes = new Eyes();
         eyes.setApiKey("123538e"); // Replace with your actual Applitools API key
-
+// Replace with your actual Applitools API key
 
         try {
             eyes.open(driver, "Sadeem Visual Project", "Homepage Visual Test",
